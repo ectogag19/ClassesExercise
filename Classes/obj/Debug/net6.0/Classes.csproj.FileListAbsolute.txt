@@ -1,0 +1,15 @@
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/bin/Debug/net6.0/Classes
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/Classes.sourcelink.json
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/georgegarcia/Desktop/repos/ClassesExercise/Classes/obj/Debug/net6.0/ref/Classes.dll
